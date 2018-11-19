@@ -1,4 +1,4 @@
-var div  = document.createElement ('canvas');
+var textElem = document.createTextNode('Тут был я');
 
 var video;
 var copy;
