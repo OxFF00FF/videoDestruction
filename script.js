@@ -1,3 +1,4 @@
+var div  = document.createElement ('canvas');
 
 var video;
 var copy;
